@@ -1,7 +1,7 @@
 # Community Learning Center Management System
 
-**Name:** [Your Full Name]
-**Section:** [Your Section]
+**Name:** Belamide, Ashley Nicole
+**Section:** 3.8 BSIT
 **Course:** Mobile Development - Midterm Laboratory Examination
 
 ## Short Description
